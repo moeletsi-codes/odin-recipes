@@ -1,0 +1,32 @@
+/* main settings */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30;
+    font-weight: bold;
+}
+
+/* alignment for main page only */
+#main-page {
+   text-align: center;
+   list-style: none;
+}
+
+.main-page {
+    text-align: center;
+ }
+
+.recipe-name {
+    background-color: rgb(105, 105, 206);
+    color: white;
+    text-align: center;
+    font-weight: 800;
+}
+h3 , p {
+    text-align: center;
+    background-color: rgb(105, 105, 206);
+    color: white;
+} 
+
+/* I want to change the color of the bullet points not the entire text */
+
+
